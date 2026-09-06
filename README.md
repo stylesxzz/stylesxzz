@@ -54,13 +54,13 @@
 
 ---
 
-## 🚀 Projeto em Destaque
+## 🚀 Projetos em Destaque
 
 <div align="center">
 
 <table>
 <tr>
-<td width="100%">
+<td width="50%" valign="top">
 
 <h3 align="center">🛡️ God's Gate Defense</h3>
 
@@ -82,6 +82,31 @@ Sistema autônomo de <b>defesa cibernética</b> com telemetria em tempo real, mo
 <p align="center">
 <img src="https://img.shields.io/github/stars/stylesxzz/godsgate-defense?style=social"/>
 <img src="https://img.shields.io/github/forks/stylesxzz/godsgate-defense?style=social"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🕵️ IRIS</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/status-em%20desenvolvimento%20ativo-8B0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/tipo-pentest%20%2B%20OSINT%20%2B%20IA-0f0f0f?style=flat-square&logo=shieldsdotio&logoColor=FF3B3B"/>
+</p>
+
+<p align="center">
+Plataforma web em <b>Flask</b> voltada para profissionais de cibersegurança, integrando ferramentas de <b>pentest</b>, capacidades de <b>OSINT</b>, um mapa mental interativo de investigação e um agente de <b>IA</b> (Hermes) para apoio nas análises.
+</p>
+
+<p align="center">
+<a href="https://github.com/stylesxzz/IRIS">
+<img src="https://img.shields.io/badge/%F0%9F%94%97%20Ver%20Reposit%C3%B3rio-IRIS-8B0000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/github/stars/stylesxzz/IRIS?style=social"/>
+<img src="https://img.shields.io/github/forks/stylesxzz/IRIS?style=social"/>
 </p>
 
 </td>
@@ -134,16 +159,16 @@ Sistema autônomo de <b>defesa cibernética</b> com telemetria em tempo real, mo
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=stylesxzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF3B3B&icon_color=FF3B3B&text_color=E5E5E5&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stylesxzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF3B3B&text_color=E5E5E5"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=stylesxzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF3B3B&icon_color=FF3B3B&text_color=E5E5E5&cache_seconds=86400"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stylesxzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF3B3B&text_color=E5E5E5&cache_seconds=86400"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=stylesxzz&theme=tokyonight&hide_border=true&background=0d1117&ring=FF3B3B&fire=FF3B3B&currStreakLabel=FF3B3B"/>
+<img src="https://streak-stats.demolab.com/?user=stylesxzz&theme=tokyonight&hide_border=true&background=0d1117&ring=FF3B3B&fire=FF3B3B&currStreakLabel=FF3B3B"/>
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=stylesxzz&theme=darkhub&no-frame=true&no-bg=true&row=1&margin-w=15&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=stylesxzz&theme=darkhub&no-frame=true&no-bg=true&row=1&margin-w=15&column=6&title=Commits,Repositories,Stars,Followers"/>
 
 </div>
 
@@ -160,4 +185,3 @@ Sistema autônomo de <b>defesa cibernética</b> com telemetria em tempo real, mo
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:8B0000,100:0f0f0f&height=100&section=footer" width="100%"/>
 
 </div>
-
