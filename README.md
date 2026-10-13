@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner principal -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:8B0000,100:0f0f0f&height=220&section=header&text=YGOR%20FELLIPPE&fontSize=55&fontColor=FF3B3B&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Analyst%20%7C%20Developer&descAlignY=58&descSize=20&descColor=E5E5E5" width="100%" alt="Banner Ygor Fellippe"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:8B0000,100:0f0f0f&height=220&section=header&text=STYLESXZZ.CYBER&fontSize=55&fontColor=FF3B3B&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Analyst%20%7C%20Developer&descAlignY=58&descSize=20&descColor=E5E5E5" width="100%" alt="Banner Stylesxz.cyber"/>
 
 <a href="https://github.com/stylesxzz">
 <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Analyst+%7C+Developer;%F0%9F%94%8D+Pentesting+%7C+OSINT+%7C+Threat+Hunting;%F0%9F%A4%96+Building+God%27s+Gate+Defense;%F0%9F%92%BB+Automating+Digital+Defense&font=Fira+Code&center=true&width=700&height=45&color=FF3B3B&vCenter=true&size=22&pause=1200&duration=2800" alt="Animação de texto"/>
