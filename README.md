@@ -188,4 +188,4 @@ Plataforma web em <b>Flask</b> para profissionais de cibersegurança, integrando
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:8B0000,100:0f0f0f&height=100&section=footer" width="100%" alt="Banner de encerramento"/>
 
-</div>
+</div> 
