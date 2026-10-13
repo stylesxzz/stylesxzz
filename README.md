@@ -168,7 +168,9 @@ Plataforma web em <b>Flask</b> voltada para profissionais de cibersegurança, in
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=stylesxzz&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;margin-w=15&amp;column=6&amp;title=Commits,Repositories,Stars,Followers"/>
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=stylesxzz&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;margin-w=15&amp;column=6&amp;title=Commits,Repositories,Stars,Followers" alt="Troféus do GitHub" />
 
 </div>
 
@@ -176,9 +178,11 @@ Plataforma web em <b>Flask</b> voltada para profissionais de cibersegurança, in
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=stylesxzz&amp;style=for-the-badge&amp;color=8B0000&amp;label=VISUALIZAÇÕES+DO+PERFIL"/>
+  <img src="https://komarev.com/ghpvc/?username=stylesxzz&amp;style=for-the-badge&amp;color=8B0000&amp;label=VISUALIZAÇÕES+DO+PERFIL" alt="Visualizações do perfil" />
 
-<br><br>
+  <br><br>
+
+</div>
 
 <i>"A melhor defesa nasce de quem entende profundamente o ataque."</i>
 
