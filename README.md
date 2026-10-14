@@ -168,14 +168,6 @@ Plataforma web em <b>Flask</b> para profissionais de cibersegurança, integrando
 
 <img src="https://streak-stats.demolab.com/?user=stylesxzz&theme=tokyonight&hide_border=true&background=0d1117&ring=FF3B3B&fire=FF3B3B&currStreakLabel=FF3B3B" alt="Sequência de contribuições"/>
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=stylesxzz&theme=darkhub&no-frame=true&row=1&column=6" alt="Troféus do GitHub"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=stylesxzz&style=for-the-badge&color=8B0000&label=VISUALIZACOES" alt="Visualizações do perfil"/>
-
 </div>
 
 ---
