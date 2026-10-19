@@ -1,86 +1,115 @@
+<div align="center">
 
-<!-- ADDED SECTION: PROFESSIONAL PROFILE -->
-<h2>🔥 CEO | Cybersecurity Consultant and Developer</h2>
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · stylesxzz</sub></p>
+<h1>Samael</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Alte volare tantum potes cum timorem saltandi amiseris.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-<p>
-⚡ <strong>Pentest · Red Team · Blue Team</strong>
+<p><a href="https://github.com/stylesxzz">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/185298427?u=17d85a977feef23c3a55ab373309fe5bbc659715&amp;v=4" width="180" alt="Samael GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
+
+<h2>What teams can evaluate quickly</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · CSS · HTML</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>7 repositories · 6 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>43 contributions · 8 active days</p></td>
+</tr>
+</table>
+
+<p><sub>Alte volare tantum potes cum timorem saltandi amiseris.</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>7</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>6</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>43</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>5</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=stylesxzz&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185298427%3Fu%3D17d85a977feef23c3a55ab373309fe5bbc659715%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=stylesxzz&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185298427%3Fu%3D17d85a977feef23c3a55ab373309fe5bbc659715%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Samael GitHub proof metrics" />
+</picture>
 </p>
 
-<p>
-🤝 <strong>Communities &amp; Security Platforms:</strong><br />
-<a href="https://developers.google.com/">Google Developers</a> ·
-<a href="https://www.hackerone.com/">HackerOne</a> ·
-<a href="https://www.bugcrowd.com/">Bugcrowd</a> ·
-<a href="https://intigriti.com/">Intigriti</a> ·
-<a href="https://yeswehack.com/">YesWeHack</a> ·
-<a href="https://hackenproof.com/">HackenProof</a>
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=stylesxzz&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185298427%3Fu%3D17d85a977feef23c3a55ab373309fe5bbc659715%26v%3D4&repos=stylesxzz%2FIRIS%2Cstylesxzz%2Fgodsgate-defense%2Cstylesxzz%2FAmbxst-Desktop%2Cstylesxzz%2Fstylesxzz&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=stylesxzz&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185298427%3Fu%3D17d85a977feef23c3a55ab373309fe5bbc659715%26v%3D4&repos=stylesxzz%2FIRIS%2Cstylesxzz%2Fgodsgate-defense%2Cstylesxzz%2FAmbxst-Desktop%2Cstylesxzz%2Fstylesxzz&v=recruiter-projects-1&mode=dark" width="100%" alt="Samael selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/stylesxzz/IRIS">IRIS</a></h3>
+<p>A selected public project.</p>
+<p><sub>HTML · ⭐ 2 · 🍴 0</sub></p>
+<p><a href="https://github.com/stylesxzz/IRIS">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/stylesxzz/godsgate-defense">godsgate-defense</a></h3><p>A selected public project.</p><p><sub>HTML · ⭐ 2</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/stylesxzz/Ambxst-Desktop">Ambxst-Desktop</a></h3><p>A selected public project.</p><p><sub>Shell · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/stylesxzz/stylesxzz">stylesxzz</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 1</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=stylesxzz&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185298427%3Fu%3D17d85a977feef23c3a55ab373309fe5bbc659715%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=stylesxzz&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185298427%3Fu%3D17d85a977feef23c3a55ab373309fe5bbc659715%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Samael technology stack" />
+</picture>
 </p>
 
-<p>
-📚 <strong>Ongoing Education:</strong><br />
-<a href="https://academy.hackthebox.com/">HTB Academy</a> ·
-<a href="https://tryhackme.com/">TryHackMe</a> ·
-<a href="https://skillsbuild.org/">IBM SkillsBuild</a> ·
-<a href="https://www.coursera.org/">Coursera</a> ·
-<a href="https://solyd.com.br/">Solyd</a> ·
-<a href="https://coddy.tech/">Coddy</a>
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>96% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>3% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>1% of public code</sub></td>
+<td width="20%" align="center"><strong>Shell</strong><br /><sub>0% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>0% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=stylesxzz&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185298427%3Fu%3D17d85a977feef23c3a55ab373309fe5bbc659715%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=stylesxzz&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185298427%3Fu%3D17d85a977feef23c3a55ab373309fe5bbc659715%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Samael contribution activity" />
+</picture>
 </p>
 
-<h2>🕶️ Grey Hat Security Research</h2>
+<hr />
 
-<p>
-My interest in Grey Hat security research involves investigating how
-applications and systems behave, identifying potential vulnerabilities,
-understanding attack surfaces, and studying ways to improve digital security.
-I explore offensive security concepts while also considering the defensive
-measures needed to protect applications, infrastructure, and user data.
-</p>
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/stylesxzz">GitHub</a></td>
+</tr>
+</table>
 
-<p>
-My areas of interest include vulnerability analysis, web application
-security, access-control testing, API security, penetration-testing
-methodologies, and responsible vulnerability disclosure. I value technical
-investigation, clear documentation, evidence-based findings, and practical
-recommendations that help developers and organizations strengthen their systems.
-</p>
-
-<p>
-I recognize that curiosity does not replace authorization. Practical
-security testing should remain within systems I own, environments where
-I have explicit permission, or activities specifically permitted by a
-security program. My goal is to understand weaknesses and contribute to
-better security through responsible research and remediation.
-</p>
-
-<h2>💻 Software Development &amp; Engineering</h2>
-
-<p>
-As a developer, I focus on exploring and building software, developing
-interfaces, integrating technologies, and turning ideas into practical
-digital solutions. My interests span frontend and full-stack engineering,
-application architecture, APIs, automation, and AI-powered tools.
-</p>
-
-<ul>
-<li><strong>Frontend Development:</strong> Building responsive interfaces with HTML, CSS, JavaScript, and TypeScript.</li>
-<li><strong>Full-Stack Development:</strong> Exploring the connection between frontend interfaces, backend logic, APIs, and application services.</li>
-<li><strong>Application Engineering:</strong> Developing, testing, debugging, and improving software through iterative workflows.</li>
-<li><strong>AI &amp; Automation:</strong> Exploring intelligent assistants, API integrations, and automated workflows.</li>
-<li><strong>Linux &amp; Systems:</strong> Experimenting with Linux environments, shell scripting, and developer tooling.</li>
-<li><strong>Secure Development:</strong> Considering input validation, authentication, secret management, and security-minded design.</li>
-<li><strong>Open Source:</strong> Sharing projects, documenting technical work, and learning through collaboration and experimentation.</li>
-</ul>
-
-<p>
-My approach combines software functionality, usability, technical curiosity,
-and security awareness. I aim to understand not only how to build an
-application, but also how to improve its reliability, maintainability,
-and resistance to common security weaknesses.
-</p>
-
-<p>
-As a CEO and technology builder, I am also interested in product development,
-technical consulting, digital solutions, and the integration of software
-engineering, cybersecurity, and artificial intelligence.
-</p>
-<!-- END ADDED SECTION -->
+<p align="center"><sub>Samael · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
