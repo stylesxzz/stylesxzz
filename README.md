@@ -1,183 +1,115 @@
 <div align="center">
 
-<!-- Banner principal -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:8B0000,100:0f0f0f&height=220&section=header&text=STYLESXZZ.CYBER&fontSize=55&fontColor=FF3B3B&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Analyst%20%7C%20Developer&descAlignY=58&descSize=20&descColor=E5E5E5" width="100%" alt="Banner Stylesxz.cyber"/>
-
-<a href="https://github.com/stylesxzz">
-<img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Analyst+%7C+Developer;%F0%9F%94%8D+Pentesting+%7C+OSINT+%7C+Threat+Hunting;%F0%9F%A4%96+Building+God%27s+Gate+Defense;%F0%9F%92%BB+Automating+Digital+Defense&font=Fira+Code&center=true&width=700&height=45&color=FF3B3B&vCenter=true&size=22&pause=1200&duration=2800" alt="Animação de texto"/>
-</a>
-
-<br>
-
-<img src="https://img.shields.io/badge/status-online-8B0000?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status online"/>
-<img src="https://img.shields.io/badge/focus-cybersecurity-0f0f0f?style=for-the-badge&logo=hackthebox&logoColor=FF3B3B" alt="Foco em cibersegurança"/>
-<img src="https://img.shields.io/badge/base-termux%20%2F%20android-0f0f0f?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Termux e Android"/>
-
-</div>
-
-<br>
-
-> ### 🛡️ Sobre mim
->
-> Analista de Cibersegurança e desenvolvedor focado em **Segurança da Informação**, **Pentesting**, **Automação de Defesa Cibernética** e **OSINT**. Construo ferramentas ofensivas e defensivas, estudo programas de recompensa por bugs e desenvolvo soluções de defesa autônoma orientadas a IA — operando também pelo **Android via Termux**.
-
-<br>
-
----
-
-### 🤝 Membro & Comunidades de Cibersegurança
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Google_Devs-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developers"/>
-<img src="https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=FF3B3B" alt="HackerOne"/>
-<img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd"/>
-<img src="https://img.shields.io/badge/Intigriti-262A48?style=for-the-badge&logo=intigriti&logoColor=white" alt="Intigriti"/>
-<img src="https://img.shields.io/badge/YesWeHack-2E2E2E?style=for-the-badge&logo=yeswehack&logoColor=white" alt="YesWeHack"/>
-<img src="https://img.shields.io/badge/HackenProof-1B1F3B?style=for-the-badge&logo=hackenproof&logoColor=white" alt="HackenProof"/>
-
-</div>
-
----
-
-### 📚 Formação & Estudos em Andamento
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTB_Academy-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box Academy"/>
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe"/>
-<img src="https://img.shields.io/badge/IBM_SkillsBuild-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM SkillsBuild"/>
-<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera"/>
-<img src="https://img.shields.io/badge/Solyd-1a1a1a?style=for-the-badge&logo=protonvpn&logoColor=FF3B3B" alt="Solyd"/>
-<img src="https://img.shields.io/badge/Coddy-2b2b2b?style=for-the-badge&logo=codeforces&logoColor=white" alt="Coddy"/>
-
-</div>
-
----
-
-## 🚀 Projetos em Destaque
-
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · stylesxzz</sub></p>
+<h1>Samael</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Alte volare tantum potes cum timorem saltandi amiseris.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-<h3 align="center">🛡️ God's Gate Defense</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/status-em%20desenvolvimento%20ativo-8B0000?style=flat-square" alt="Status do projeto"/>
-<img src="https://img.shields.io/badge/tipo-defesa%20cibern%C3%A9tica%20aut%C3%B4noma-0f0f0f?style=flat-square&logo=shieldsdotio&logoColor=FF3B3B" alt="Defesa cibernética"/>
-</p>
-
-<p align="center">
-Sistema de <b>defesa cibernética</b> com telemetria, monitoramento de agentes distribuídos e gerenciamento centralizado de segurança por meio de um <b>painel web</b> e <b>agentes</b>. Arquitetura voltada para detecção, resposta a incidentes e visibilidade da postura de segurança da infraestrutura protegida.
-</p>
-
-<p align="center">
-<a href="https://github.com/stylesxzz/godsgate-defense">
-<img src="https://img.shields.io/badge/🔗%20Ver%20Repositório-godsgate--defense-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório God's Gate Defense"/>
-</a>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/github/stars/stylesxzz/godsgate-defense?style=social" alt="Estrelas do God's Gate Defense"/>
-<img src="https://img.shields.io/github/forks/stylesxzz/godsgate-defense?style=social" alt="Forks do God's Gate Defense"/>
-</p>
-
+<p><a href="https://github.com/stylesxzz">GitHub</a></p>
 </td>
-<td width="50%" valign="top">
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/185298427?u=17d85a977feef23c3a55ab373309fe5bbc659715&amp;v=4" width="180" alt="Samael GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-<h3 align="center">🕵️ IRIS</h3>
+<h2>What teams can evaluate quickly</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · CSS · HTML</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>7 repositories · 6 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>43 contributions · 8 active days</p></td>
+</tr>
+</table>
+
+<p><sub>Alte volare tantum potes cum timorem saltandi amiseris.</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>7</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>6</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>43</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>5</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
 <p align="center">
-<img src="https://img.shields.io/badge/status-em%20desenvolvimento%20ativo-8B0000?style=flat-square" alt="Status do IRIS"/>
-<img src="https://img.shields.io/badge/tipo-pentest%20%2B%20OSINT%20%2B%20IA-0f0f0f?style=flat-square&logo=shieldsdotio&logoColor=FF3B3B" alt="Pentest, OSINT e IA"/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=stylesxzz&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185298427%3Fu%3D17d85a977feef23c3a55ab373309fe5bbc659715%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=stylesxzz&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185298427%3Fu%3D17d85a977feef23c3a55ab373309fe5bbc659715%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Samael GitHub proof metrics" />
+</picture>
 </p>
 
-<p align="center">
-Plataforma web em <b>Flask</b> para profissionais de cibersegurança, integrando ferramentas de <b>pentest</b>, recursos de <b>OSINT</b>, mapa mental interativo de investigação e um agente de <b>IA</b> para auxiliar nas análises.
-</p>
+<h2>Selected work</h2>
 
-<p align="center">
-<a href="https://github.com/stylesxzz/IRIS">
-<img src="https://img.shields.io/badge/🔗%20Ver%20Repositório-IRIS-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório IRIS"/>
-</a>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/github/stars/stylesxzz/IRIS?style=social" alt="Estrelas do IRIS"/>
-<img src="https://img.shields.io/github/forks/stylesxzz/IRIS?style=social" alt="Forks do IRIS"/>
-</p>
-
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=stylesxzz&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185298427%3Fu%3D17d85a977feef23c3a55ab373309fe5bbc659715%26v%3D4&repos=stylesxzz%2FIRIS%2Cstylesxzz%2Fgodsgate-defense%2Cstylesxzz%2FAmbxst-Desktop%2Cstylesxzz%2Fstylesxzz&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=stylesxzz&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185298427%3Fu%3D17d85a977feef23c3a55ab373309fe5bbc659715%26v%3D4&repos=stylesxzz%2FIRIS%2Cstylesxzz%2Fgodsgate-defense%2Cstylesxzz%2FAmbxst-Desktop%2Cstylesxzz%2Fstylesxzz&v=recruiter-projects-1&mode=dark" width="100%" alt="Samael selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/stylesxzz/IRIS">IRIS</a></h3>
+<p>A selected public project.</p>
+<p><sub>HTML · ⭐ 2 · 🍴 0</sub></p>
+<p><a href="https://github.com/stylesxzz/IRIS">Read the repository →</a></p>
 </td>
 </tr>
 </table>
 
-</div>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/stylesxzz/godsgate-defense">godsgate-defense</a></h3><p>A selected public project.</p><p><sub>HTML · ⭐ 2</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/stylesxzz/Ambxst-Desktop">Ambxst-Desktop</a></h3><p>A selected public project.</p><p><sub>Shell · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/stylesxzz/stylesxzz">stylesxzz</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 1</sub></p></td>
+</tr>
+</table>
 
----
+<h2>Technical toolkit</h2>
 
-### 🧰 Habilidades Técnicas & Ferramentas
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=stylesxzz&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185298427%3Fu%3D17d85a977feef23c3a55ab373309fe5bbc659715%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=stylesxzz&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185298427%3Fu%3D17d85a977feef23c3a55ab373309fe5bbc659715%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Samael technology stack" />
+</picture>
+</p>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>96% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>3% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>1% of public code</sub></td>
+<td width="20%" align="center"><strong>Shell</strong><br /><sub>0% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>0% of public code</sub></td>
+</tr>
+</table>
 
-**Sistemas Operacionais**
+<h2>Consistency signal</h2>
 
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux"/>
-<img src="https://img.shields.io/badge/Parrot_OS-2E3D51?style=for-the-badge&logo=parrotsecurity&logoColor=00FF9C" alt="Parrot OS"/>
-<img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnubash&logoColor=white" alt="Termux"/>
-<img src="https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white" alt="Tails"/>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=stylesxzz&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185298427%3Fu%3D17d85a977feef23c3a55ab373309fe5bbc659715%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=stylesxzz&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185298427%3Fu%3D17d85a977feef23c3a55ab373309fe5bbc659715%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Samael contribution activity" />
+</picture>
+</p>
 
-<br><br>
+<hr />
 
-**Linguagens**
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/stylesxzz">GitHub</a></td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML e CSS"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-
-<br><br>
-
-**Ferramentas & Frameworks**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
-<img src="https://img.shields.io/badge/OSINT-8B0000?style=for-the-badge&logo=googleearth&logoColor=white" alt="OSINT"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=gnometerminal&logoColor=00FF9C" alt="Nmap"/>
-
-</div>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=stylesxzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF3B3B&icon_color=FF3B3B&text_color=E5E5E5" alt="Estatísticas do GitHub"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stylesxzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF3B3B&text_color=E5E5E5" alt="Linguagens mais usadas"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=stylesxzz&theme=tokyonight&hide_border=true&background=0d1117&ring=FF3B3B&fire=FF3B3B&currStreakLabel=FF3B3B" alt="Sequência de contribuições"/>
-
-</div>
-
----
-
-<div align="center">
-
-<i>"A melhor defesa nasce de quem entende profundamente o ataque."</i>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:8B0000,100:0f0f0f&height=100&section=footer" width="100%" alt="Banner de encerramento"/>
-
-</div> 
+<p align="center"><sub>Samael · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
