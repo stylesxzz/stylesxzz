@@ -5,7 +5,11 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · stylesxzz</sub></p>
 <h1>Samael</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>Frontend or full-stack engineer · Cybersecurity Specialist</h2>
+<p>🔥 CEO | Cybersecurity Consultant and developer</p>
+<p>⚡ Pentest • Red Team • Blue Team</p>
+<p>🤝 Membro: Google Devs | HackerOne | Bugcrowd | Intigriti | YesWeHack | HackenProof</p>
+<p>📚 Formação em andamento: HTB Academy • TryHackMe • IBM SkillsBuild • Coursera • Solyd • Coddy</p>
 <p>Alte volare tantum potes cum timorem saltandi amiseris.</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
@@ -22,13 +26,28 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · CSS · HTML</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Cybersecurity Consultant · Grey Hat · Pentester</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>7 repositories · 6 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>43 contributions · 8 active days</p></td>
 </tr>
 </table>
 
 <p><sub>Alte volare tantum potes cum timorem saltandi amiseris.</sub></p>
+
+<h2>About My Work & Expertise</h2>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>🛠️ Software Development & Engineering</h3>
+<p>Como desenvolvedor full-stack e frontend, foco na criação de interfaces modernas, performáticas e arquiteturas resilientes. Combino boas práticas de engenharia de software com uma mentalidade voltada para a segurança cibernética desde as primeiras linhas de código (DevSecOps / Secure Coding).</p>
+</td>
+<td width="50%" valign="top">
+<h3>🛡️ Grey Hat & Cybersecurity Expertise</h3>
+<p>Atuando com uma perspectiva Grey Hat e mindset hacker, exploro vulnerabilidades, conduzo testes de invasão (Pentest) e analiso superfícies de ataque em ecossistemas web e infraestruturas. Minha abordagem combina auditoria técnica rigorosa, pesquisa proativa de falhas e contribuições em programas globais de Bug Bounty.</p>
+</td>
+</tr>
+</table>
 
 <h2>Proof at a glance</h2>
 
