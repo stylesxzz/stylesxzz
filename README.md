@@ -89,7 +89,7 @@
 <table width="100%">
 <tr>
 <td width="33%" valign="top"><h3><a href="https://github.com/stylesxzz/godsgate-defense">godsgate-defense</a></h3><p>A selected public project.</p><p><sub>HTML · ⭐ 2</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/stylesxzz/Ambxst-Desktop">Ambxst-Desktop</a></h3><p>A selected public project.</p><p><sub>Shell · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/stylesxzz/Infynit-ai">Infynit-ai</a></h3><p>A selected public project.</p><p><sub>Shell · ⭐ 1</sub></p></td>
 <td width="33%" valign="top"><h3><a href="https://github.com/stylesxzz/stylesxzz">stylesxzz</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 1</sub></p></td>
 </tr>
 </table>
