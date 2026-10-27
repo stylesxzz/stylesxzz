@@ -8,7 +8,7 @@
 <h2>Frontend or full-stack engineer · Cybersecurity Specialist</h2>
 <p>🔥 CEO | Cybersecurity Consultant and developer</p>
 <p>⚡ Pentest • Red Team • Blue Team</p>
-<p>🤝 Membro: Google Devs | HackerOne | Bugcrowd | Intigriti | YesWeHack | HackenProof</p>
+<p>🤝 Membro: Google Devs | NVIDIA | HackerOne | Bugcrowd | Intigriti | YesWeHack | HackenProof</p>
 <p>📚 Formação em andamento: HTB Academy • TryHackMe • IBM SkillsBuild • Coursera • Solyd • Coddy</p>
 <p>Alte volare tantum potes cum timorem saltandi amiseris.</p>
 <p><strong>● Building and sharing work in public</strong></p>
